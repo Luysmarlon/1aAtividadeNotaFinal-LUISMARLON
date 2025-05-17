@@ -1,0 +1,39 @@
+.tabela{
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 60px;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    margin-left:580px;
+    height: 180px; 
+    width: auto;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.center{
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    background-color: #6e6e6e;
+    margin-left: 270px;
+    color: #000000;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
